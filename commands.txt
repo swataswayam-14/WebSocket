@@ -1,0 +1,1 @@
+npm i ws @types/ws -> to install websocket package
